@@ -8,6 +8,8 @@ I’m a computer science student, professional motorsport driver, and engineer. 
 
 **AI Command Agent** is a terminal file assistant that validates OpenAI-proposed action plans against a JSON Schema. It uses interactive approval, descriptor-relative file access, and metadata-only audit logs. Its adversarial tests use mocked providers. [AI Command Agent](https://github.com/abdulibrahim7/ai-command-agent)
 
+**Parquet Query Engine** is a Python query engine that validates logical plans and applies predicate and projection pushdown to local Parquet files. The repository includes baseline equivalence tests and reproducible time and memory benchmarks on synthetic data. [Parquet Query Engine](https://github.com/abdulibrahim7/parquet-query-engine)
+
 ## Selected projects
 
 | Project | What it demonstrates |
