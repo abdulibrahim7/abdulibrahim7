@@ -2,6 +2,10 @@
 
 I’m a computer science student, professional motorsport driver, and engineer. I’m interested in software engineering, AI, data engineering, and automotive technology.
 
+## Featured project
+
+**Lap Analyzer Pro** is a motorsport coaching app that ranks corner time losses from a reference-lap CSV. Its FastAPI backend sends the analysis to Ollama or an OpenAI-compatible provider using a race-engineer persona and few-shot examples. The repository includes synthetic samples, screenshots, and automated tests. [Lap Analyzer Pro](https://github.com/abdulibrahim7/lap-analyzer-pro)
+
 ## Selected projects
 
 | Project | What it demonstrates |
