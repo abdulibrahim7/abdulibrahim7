@@ -2,9 +2,11 @@
 
 I’m a computer science student, professional motorsport driver, and engineer. I’m interested in software engineering, AI, data engineering, and automotive technology.
 
-## Featured project
+## Flagship projects
 
 **Lap Analyzer Pro** is a motorsport coaching app that ranks corner time losses from a reference-lap CSV. Its FastAPI backend sends the analysis to Ollama or an OpenAI-compatible provider using a race-engineer persona and few-shot examples. The repository includes synthetic samples, screenshots, and automated tests. [Lap Analyzer Pro](https://github.com/abdulibrahim7/lap-analyzer-pro)
+
+**AI Command Agent** is a terminal file assistant that validates OpenAI-proposed action plans against a JSON Schema. It uses interactive approval, descriptor-relative file access, and metadata-only audit logs. Its adversarial tests use mocked providers. [AI Command Agent](https://github.com/abdulibrahim7/ai-command-agent)
 
 ## Selected projects
 
